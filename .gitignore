@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+checkpoints/*
+logs/*
+*.pt
+*.pth
+*.safetensors
+data/cleaned/*
+data/processed/*

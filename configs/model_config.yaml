@@ -1,0 +1,8 @@
+model:
+  name: CODEX-SLM
+  vocab_size: 8000
+  context_length: 512
+  hidden_size: 256
+  num_heads: 4
+  num_layers: 4
+  intermediate_size: 1024

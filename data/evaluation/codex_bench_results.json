@@ -1,0 +1,110 @@
+{
+  "overall_score": 20.0,
+  "results": [
+    {
+      "id": "python_001",
+      "category": "Python",
+      "prompt": "Write a Python function that returns the largest number in a list.",
+      "response": "Write a Python function that return s the l ar ge st number in a li st . Test a snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot locally , and return a snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot locally , and return a snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot locally , invalid input into SQL injection injection injection injection injection injection when querying a snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot snapshot locally , and return a snapshot snapshot snapshot snapshot snapshot",
+      "score": 0.0
+    },
+    {
+      "id": "python_002",
+      "category": "Python",
+      "prompt": "Write a Python function that checks whether a string is a palindrome.",
+      "response": "Write a Python function that checks w he th er a string is a p al in d ro me . Keep secrets outside source code , invalid input , and mention one practical consideration . Variant 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436 436",
+      "score": 0.0
+    },
+    {
+      "id": "javascript_001",
+      "category": "JavaScript",
+      "prompt": "Write a JavaScript function that reverses a string.",
+      "response": "Write a JavaScript function that re ver se s a string . Test a price calculation calculation calculation function that validates an error . Test a compiled regular expression , return a snapshot snapshot snapshot snapshot snapshot locally , and change independently . Practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 1.0
+    },
+    {
+      "id": "javascript_002",
+      "category": "JavaScript",
+      "prompt": "Write JavaScript code that filters even numbers from an array.",
+      "response": "Write JavaScript code that f il t ers e v en number s from an ar ra y . Explicit types ? Give a concise engineering answer and mention one practical consideration . Variant 9 . Use parameterized queries or prepared statements instead of concatenating user input into SQL . Practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.0
+    },
+    {
+      "id": "typescript_001",
+      "category": "TypeScript",
+      "prompt": "Create a TypeScript interface representing a User with id, name, and email.",
+      "response": "C re ate a TypeScript int er f a ce re p res en ti ng a U ser with id , n a me , and email . The separation keeps HTTP concerns , and change independently . The separation keeps keeps keeps keeps keeps keeps keeps keeps keeps keeps keeps HTTP concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns concerns",
+      "score": 0.0
+    },
+    {
+      "id": "sql_001",
+      "category": "SQL",
+      "prompt": "Write an SQL query to select all users whose age is greater than 18.",
+      "response": "Write an SQL qu er y to se le c t al l user s w ho se age is g re at er th an 18 . Explicit types ? Give a concise engineering answer and mention one practical consideration . Variant 436 . A smaller smaller image generally reduces download size and the compiler catch incompatible property access . Practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.0
+    },
+    {
+      "id": "sql_002",
+      "category": "SQL",
+      "prompt": "Write an SQL query to count the number of products in each category.",
+      "response": "Write an SQL qu er y to co un t the number of pro d uc ts in e a ch c ate g or y . Test a user input into SQL injection when querying a snapshot locally , and mention one practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.0
+    },
+    {
+      "id": "backend_001",
+      "category": "Backend",
+      "prompt": "Explain what a REST API is and give one example endpoint.",
+      "response": "Exp l a in w ha t a R E S T API is and g i ve one e x a mp le endpoint . Test a snapshot locally , invalid input , invalid input , and a snapshot locally , and mention one practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.5
+    },
+    {
+      "id": "git_001",
+      "category": "Git",
+      "prompt": "Give the Git command used to create a new branch called feature-login.",
+      "response": "Give the G it comm and use d to c re ate a n e w b r an ch cal led f e at u re - lo gin . Test a price calculation function ? Give a concise engineering answer and mention one practical consideration . Variant 436 . Use a boolean , a snapshot locally , and keep validation separate readiness endpoint . Practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.0
+    },
+    {
+      "id": "docker_001",
+      "category": "Docker",
+      "prompt": "Write a Docker command that builds an image using the current directory.",
+      "response": "Write a Docker comm and that bu il ds an image u si ng the c ur r ent di re c tor y . Explicit types document the compiler catch incompatible property access . The separation keeps HTTP concerns , and cover the compiler catch incompatible property access . Practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.5
+    },
+    {
+      "id": "testing_001",
+      "category": "Testing",
+      "prompt": "Explain the difference between unit testing and integration testing.",
+      "response": "Exp l a in the difference between unit te s ti ng and in te g ra tion te s ti ng . Explicit types document the compiler catch incompatible property access . The separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation separation",
+      "score": 0.5
+    },
+    {
+      "id": "security_001",
+      "category": "Security",
+      "prompt": "Explain why passwords should be hashed instead of stored as plain text.",
+      "response": "Exp l a in w h y p as sw or ds should be h as h ed instead of stored as p l a in te x t . Keep secrets outside source code , and change independently . Use a price price price price price price price price price price price a boolean , and mention one practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.0
+    },
+    {
+      "id": "architecture_001",
+      "category": "Architecture",
+      "prompt": "Explain the purpose of a database in a web application.",
+      "response": "Exp l a in the p ur po se of a dat ab ase in a w e b application . Keep secrets outside source code , invalid input , and change independently . Practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.0
+    },
+    {
+      "id": "python_003",
+      "category": "Python",
+      "prompt": "Write a Python function that calculates the factorial of a number.",
+      "response": "Write a Python function that calcul ate s the f ac tor i al of a number . Test a price price price price price price price price price price price and mention one practical consideration : validate assumptions and cover the behavior with an automated test .",
+      "score": 0.0
+    },
+    {
+      "id": "backend_002",
+      "category": "Backend",
+      "prompt": "What is the purpose of HTTP status code 404?",
+      "response": "What is the p ur po se of HTTP status code 404 ? Keep secrets outside source code , and let the compiler 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346 346",
+      "score": 0.5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+training:
+  batch_size: 2
+  learning_rate: 0.0003
+  epochs: 1
+  device: cpu
+  save_every_epoch: true
+  checkpoint_dir: checkpoints
+
+data:
+  train_file: data/cleaned/train.jsonl
+  validation_file: data/cleaned/validation.jsonl
+  tokenizer_file: tokenizer/codex_tokenizer.json

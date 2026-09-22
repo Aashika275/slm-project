@@ -1,0 +1,15 @@
+{"instruction":"Write a Python function to check whether a number is prime.","response":"def is_prime(n):\n    if n < 2:\n        return False\n    for i in range(2, int(n ** 0.5) + 1):\n        if n % i == 0:\n            return False\n    return True"}
+{"instruction":"Write a Python function to reverse a string.","response":"def reverse_string(text):\n    return text[::-1]"}
+{"instruction":"Explain what a REST API is.","response":"A REST API is a web service interface that allows applications to communicate using HTTP methods such as GET, POST, PUT, and DELETE. Resources are usually represented using URLs and data is commonly exchanged as JSON."}
+{"instruction":"Write a SQL query to find all users older than 18.","response":"SELECT * FROM users WHERE age > 18;"}
+{"instruction":"Write a JavaScript function to calculate the sum of an array.","response":"function arraySum(numbers) {\n    return numbers.reduce((sum, number) => sum + number, 0);\n}"}
+{"instruction":"Explain Git commit.","response":"A Git commit records a set of changes in the local repository history. It creates a snapshot of the staged changes along with a commit message."}
+{"instruction":"Write a Dockerfile for a Node.js application.","response":"FROM node:22\nWORKDIR /app\nCOPY package*.json ./\nRUN npm install\nCOPY . .\nEXPOSE 3000\nCMD [\"node\", \"server.js\"]"}
+{"instruction":"How should a backend API validate user input?","response":"A backend API should validate required fields, data types, length limits, allowed values, and formats before processing the request. Invalid input should return an appropriate HTTP error response without exposing sensitive implementation details."}
+{"instruction":"Write a Python function to find the largest number in a list.","response":"def find_largest(numbers):\n    if not numbers:\n        return None\n    return max(numbers)"}
+{"instruction":"Explain the purpose of unit testing.","response":"Unit testing verifies individual functions or components in isolation. It helps detect regressions, validates expected behavior, and makes software changes safer."}
+{"instruction":"Write a SQL query to retrieve products with price greater than 1000.","response":"SELECT * FROM products WHERE price > 1000;"}
+{"instruction":"What is authentication?","response":"Authentication is the process of verifying the identity of a user or system. Common methods include passwords, tokens, multi-factor authentication, and certificates."}
+{"instruction":"Write a TypeScript interface for a user.","response":"interface User {\n    id: number;\n    name: string;\n    email: string;\n}"}
+{"instruction":"Explain database indexing.","response":"A database index is a data structure that helps the database find rows more efficiently. Indexes can improve read performance but require additional storage and can increase the cost of writes."}
+{"instruction":"Write an Express.js route that returns a JSON response.","response":"app.get('/api/status', (req, res) => {\n    res.json({ status: 'ok' });\n});"}

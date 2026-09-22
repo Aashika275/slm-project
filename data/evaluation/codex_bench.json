@@ -1,0 +1,138 @@
+[
+  {
+    "id": "python_001",
+    "category": "Python",
+    "prompt": "Write a Python function that returns the largest number in a list.",
+    "expected_keywords": [
+      "def",
+      "max"
+    ]
+  },
+  {
+    "id": "python_002",
+    "category": "Python",
+    "prompt": "Write a Python function that checks whether a string is a palindrome.",
+    "expected_keywords": [
+      "def",
+      "return"
+    ]
+  },
+  {
+    "id": "javascript_001",
+    "category": "JavaScript",
+    "prompt": "Write a JavaScript function that reverses a string.",
+    "expected_keywords": [
+      "function",
+      "return"
+    ]
+  },
+  {
+    "id": "javascript_002",
+    "category": "JavaScript",
+    "prompt": "Write JavaScript code that filters even numbers from an array.",
+    "expected_keywords": [
+      "filter"
+    ]
+  },
+  {
+    "id": "typescript_001",
+    "category": "TypeScript",
+    "prompt": "Create a TypeScript interface representing a User with id, name, and email.",
+    "expected_keywords": [
+      "interface",
+      "User"
+    ]
+  },
+  {
+    "id": "sql_001",
+    "category": "SQL",
+    "prompt": "Write an SQL query to select all users whose age is greater than 18.",
+    "expected_keywords": [
+      "SELECT",
+      "FROM",
+      "WHERE"
+    ]
+  },
+  {
+    "id": "sql_002",
+    "category": "SQL",
+    "prompt": "Write an SQL query to count the number of products in each category.",
+    "expected_keywords": [
+      "SELECT",
+      "COUNT",
+      "GROUP BY"
+    ]
+  },
+  {
+    "id": "backend_001",
+    "category": "Backend",
+    "prompt": "Explain what a REST API is and give one example endpoint.",
+    "expected_keywords": [
+      "API",
+      "HTTP"
+    ]
+  },
+  {
+    "id": "git_001",
+    "category": "Git",
+    "prompt": "Give the Git command used to create a new branch called feature-login.",
+    "expected_keywords": [
+      "git",
+      "branch"
+    ]
+  },
+  {
+    "id": "docker_001",
+    "category": "Docker",
+    "prompt": "Write a Docker command that builds an image using the current directory.",
+    "expected_keywords": [
+      "docker",
+      "build"
+    ]
+  },
+  {
+    "id": "testing_001",
+    "category": "Testing",
+    "prompt": "Explain the difference between unit testing and integration testing.",
+    "expected_keywords": [
+      "unit",
+      "integration"
+    ]
+  },
+  {
+    "id": "security_001",
+    "category": "Security",
+    "prompt": "Explain why passwords should be hashed instead of stored as plain text.",
+    "expected_keywords": [
+      "hash",
+      "password"
+    ]
+  },
+  {
+    "id": "architecture_001",
+    "category": "Architecture",
+    "prompt": "Explain the purpose of a database in a web application.",
+    "expected_keywords": [
+      "database",
+      "data"
+    ]
+  },
+  {
+    "id": "python_003",
+    "category": "Python",
+    "prompt": "Write a Python function that calculates the factorial of a number.",
+    "expected_keywords": [
+      "def",
+      "return"
+    ]
+  },
+  {
+    "id": "backend_002",
+    "category": "Backend",
+    "prompt": "What is the purpose of HTTP status code 404?",
+    "expected_keywords": [
+      "404",
+      "not"
+    ]
+  }
+]
